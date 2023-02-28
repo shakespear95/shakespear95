@@ -1,7 +1,7 @@
 ![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)]
 <h1 align="center">Hi 👋, I'm Eng Shakespear Samu</h1>
 <h3 align="center">A passionate Telecommunications Engineer and full stack web developer</h3>
-<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakespear95&label=Profile%20views&color=0e75b6&style=flat" alt="shakespear95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakespear95" alt="shakespear95" /></a> </p>
